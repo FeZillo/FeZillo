@@ -4,12 +4,6 @@
 - 🏫 Cursando Ciência da Computação no Inteli - Instituto de Tecnologia e Liderança
 
 <div>
-  <a href="https://github.com/FeZillo">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeZillo&layout=compact&langs_count=6&theme=jolly"/>
-</div>
-<br>
-
-<div>
   <h1>💻 Technologies</h1>
   <img align="right" src="https://images-ext-1.discordapp.net/external/TF4OJw4g5Tg4sewJJlA8hM55BABBURvJ8T1qPiTmRUE/https/media1.tenor.com/m/bdXrzy-_-LMAAAAd/sage-dance-funny-dance.gif?width=200&height=200">
   <div align="left">
