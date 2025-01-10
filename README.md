@@ -1,7 +1,7 @@
 ### Hello, I'm Felipe Zillo. Welcome to my profile 👋
 
 
-- 🏫 Cursando Ciência da Computação no Inteli - Instituto de Tecnologia e Liderança
+- 🏫 Cursando Engenharia de Software no Inteli - Instituto de Tecnologia e Liderança
 
 <div>
   <h1>💻 Technologies</h1>
